@@ -1,0 +1,54 @@
+Enter the file path: Assignment_Timecard.xlsx
+Enter the option to get the employees who have: 
+ a) worked for 7 consecutive days
+ b) less than 10 hours of time between shifts but greater than 1 hour
+ c) worked more than 14 hours in a single shift
+a
++---------------------------------------+---------------+----------------------+
+|                                       | Position ID   | Employee Name        |
+|---------------------------------------+---------------+----------------------|
+| ('WFS000101', 'Sparks, KeWWeMh')      | WFS000101     | Sparks, KeWWeMh      |
+| ('WFS000424', 'SiWgh, JaspreeM')      | WFS000424     | SiWgh, JaspreeM      |
+| ('WFS000456', 'CEreira Jr, JEse')     | WFS000456     | CEreira Jr, JEse     |
+| ('WFS000473', 'GAeWdia, JAaW CarXEs') | WFS000473     | GAeWdia, JAaW CarXEs |
++---------------------------------------+---------------+----------------------+
+
+Enter the file path: Assignment_Timecard.xlsx
+Enter the option to get the employees who have: 
+ a) worked for 7 consecutive days
+ b) less than 10 hours of time between shifts but greater than 1 hour
+ c) worked more than 14 hours in a single shift
+b
++--------------------------------------------------+---------------+---------------------------------+
+|                                                  | Position ID   | Employee Name                   |
+|--------------------------------------------------+---------------+---------------------------------|
+| ('WFS000153', 'CaMaXaWE, CeghaW')                | WFS000153     | CaMaXaWE, CeghaW                |
+| ('WFS000200', 'Xee, XaCar')                      | WFS000200     | Xee, XaCar                      |
+| ('WFS000318', 'De Xa Cerda, IgWaciE')            | WFS000318     | De Xa Cerda, IgWaciE            |
+| ('WFS000345', 'MraW, WiXXiaC Ha')                | WFS000345     | MraW, WiXXiaC Ha                |
+| ('WFS000456', 'CEreira Jr, JEse')                | WFS000456     | CEreira Jr, JEse                |
+| ('WFS000515', 'GrACfieXd, CErWeXiAs')            | WFS000515     | GrACfieXd, CErWeXiAs            |
+| ('WFS000523', 'DeXgadiXXE REdarMe, ChrisMiaW S') | WFS000523     | DeXgadiXXE REdarMe, ChrisMiaW S |
+| ('WFS000536', 'HaCiXMEW, DeaWMe DevEW')          | WFS000536     | HaCiXMEW, DeaWMe DevEW          |
+| ('WFS000550', 'REdrigAez, GraWdEW AWgeX')        | WFS000550     | REdrigAez, GraWdEW AWgeX        |
++--------------------------------------------------+---------------+---------------------------------+
+
+Enter the file path: Assignment_Timecard.xlsx
+Enter the option to get the employees who have:
+ a) worked for 7 consecutive days
+ b) less than 10 hours of time between shifts but greater than 1 hour
+ c) worked more than 14 hours in a single shift
+c
++--------------------------------------------------+---------------+---------------------------------+
+|                                                  | Position ID   | Employee Name                   |
+|--------------------------------------------------+---------------+---------------------------------|
+| ('WFS000523', 'DeXgadiXXE REdarMe, ChrisMiaW S') | WFS000523     | DeXgadiXXE REdarMe, ChrisMiaW S |
++--------------------------------------------------+---------------+---------------------------------+
+
+Enter the file path: Assignment_Timecard.xlsx
+Enter the option to get the employees who have: 
+ a) worked for 7 consecutive days 
+ b) less than 10 hours of time between shifts but greater than 1 hour 
+ c) worked more than 14 hours in a single shift 
+d
+Invalid option. Please enter a, b, or c.
